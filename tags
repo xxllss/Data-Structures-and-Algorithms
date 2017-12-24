@@ -1,0 +1,143 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AdjList	graph/create/create_adj_mult_graph.c	/^}VertexNode,AdjList[MAXVEX];$/;"	t	typeref:struct:VertexNode	file:
+AdjList	graph/create/create_edge_array_graph.c	/^}VertexNode,AdjList[MAXVEX];$/;"	t	typeref:struct:VertexNode	file:
+AdjList	graph/create/create_list_graph.h	/^}VertexNode,AdjList[MAXVEX];$/;"	t	typeref:struct:__anon3
+AdjList	graph/create/create_orth_graph.c	/^}VertexNodei,AdjList[MAXVEX];$/;"	t	typeref:struct:VertexNode	file:
+BOOLEAN	graph/traverse/dfs_adjlist.c	/^}BOOLEAN;$/;"	t	typeref:enum:__anon6	file:
+BOOLEAN	graph/traverse/dfs_matrix.c	/^}BOOLEAN;$/;"	t	typeref:enum:__anon5	file:
+BiTNode	tree/common.h	/^typedef struct BiTNode{$/;"	s
+BiTNode	tree/common.h	/^}BiTNode,*BiTree;$/;"	t	typeref:struct:BiTNode
+BiTree	tree/common.h	/^}BiTNode,*BiTree;$/;"	t	typeref:struct:BiTNode
+EdgeAdjGraph	graph/create/create_edge_array_graph.c	/^}EdgeAdjGraph;$/;"	t	typeref:struct:__anon1	file:
+EdgeList	graph/create/create_edge_array_graph.c	/^}EdgeNode,EdgeList[MAXEDGE];$/;"	t	typeref:struct:EdgeNode	file:
+EdgeNode	graph/create/create_adj_mult_graph.c	/^typedef struct EdgeNode{$/;"	s	file:
+EdgeNode	graph/create/create_adj_mult_graph.c	/^}EdgeNode;$/;"	t	typeref:struct:EdgeNode	file:
+EdgeNode	graph/create/create_edge_array_graph.c	/^typedef struct EdgeNode{$/;"	s	file:
+EdgeNode	graph/create/create_edge_array_graph.c	/^}EdgeNode,EdgeList[MAXEDGE];$/;"	t	typeref:struct:EdgeNode	file:
+EdgeNode	graph/create/create_list_graph.h	/^typedef struct  EdgeNode{$/;"	s
+EdgeNode	graph/create/create_list_graph.h	/^}EdgeNode;$/;"	t	typeref:struct:EdgeNode
+EdgeNode	graph/create/create_orth_graph.c	/^typedef struct EdgeNode{$/;"	s	file:
+EdgeNode	graph/create/create_orth_graph.c	/^}EdgeNode;$/;"	t	typeref:struct:EdgeNode	file:
+FALSE	graph/traverse/dfs_adjlist.c	/^    FALSE,TRUE$/;"	e	enum:__anon6	file:
+FALSE	graph/traverse/dfs_matrix.c	/^    FALSE,$/;"	e	enum:__anon5	file:
+GraphAdjList	graph/create/create_list_graph.h	/^}GraphAdjList;$/;"	t	typeref:struct:__anon4
+INIFITY	graph/create/create_matrix_graph.h	4;"	d
+MAXEDGE	graph/create/create_edge_array_graph.c	8;"	d	file:
+MAXVEX	graph/create/create_adj_mult_graph.c	7;"	d	file:
+MAXVEX	graph/create/create_edge_array_graph.c	7;"	d	file:
+MAXVEX	graph/create/create_list_graph.h	4;"	d
+MAXVEX	graph/create/create_matrix_graph.h	3;"	d
+MAXVEX	graph/create/create_orth_graph.c	7;"	d	file:
+MAXVEX	graph/traverse/dfs_adjlist.c	5;"	d	file:
+MGraph	graph/create/create_matrix_graph.h	/^}MGraph;$/;"	t	typeref:struct:__anon2
+MultAdjGraph	graph/create/create_adj_mult_graph.c	/^typedef struct MultAdjGraph{$/;"	s	file:
+MultAdjGraph	graph/create/create_adj_mult_graph.c	/^}MultAdjGraph;$/;"	t	typeref:struct:MultAdjGraph	file:
+OrthGraphList	graph/create/create_orth_graph.c	/^typedef struct OrthGraphList{$/;"	s	file:
+OrthGraphList	graph/create/create_orth_graph.c	/^}OrthGraphList;$/;"	t	typeref:struct:OrthGraphList	file:
+Point	tree/level_order_traverse.c	/^typedef struct Point{$/;"	s	file:
+Point	tree/level_order_traverse.c	/^}Point,*bPoint;$/;"	t	typeref:struct:Point	file:
+Quene	tree/level_order_traverse.c	/^typedef struct Quene{$/;"	s	file:
+Quene	tree/level_order_traverse.c	/^}Quene,*bQuene;$/;"	t	typeref:struct:Quene	file:
+TRUE	graph/traverse/dfs_adjlist.c	/^    FALSE,TRUE$/;"	e	enum:__anon6	file:
+TRUE	graph/traverse/dfs_matrix.c	/^    TRUE$/;"	e	enum:__anon5	file:
+VertexNode	graph/create/create_adj_mult_graph.c	/^typedef struct VertexNode{$/;"	s	file:
+VertexNode	graph/create/create_adj_mult_graph.c	/^}VertexNode,AdjList[MAXVEX];$/;"	t	typeref:struct:VertexNode	file:
+VertexNode	graph/create/create_edge_array_graph.c	/^typedef struct VertexNode{$/;"	s	file:
+VertexNode	graph/create/create_edge_array_graph.c	/^}VertexNode,AdjList[MAXVEX];$/;"	t	typeref:struct:VertexNode	file:
+VertexNode	graph/create/create_list_graph.h	/^}VertexNode,AdjList[MAXVEX];$/;"	t	typeref:struct:__anon3
+VertexNode	graph/create/create_orth_graph.c	/^typedef struct VertexNode{$/;"	s	file:
+VertexNodei	graph/create/create_orth_graph.c	/^}VertexNodei,AdjList[MAXVEX];$/;"	t	typeref:struct:VertexNode	file:
+adjlist	graph/create/create_adj_mult_graph.c	/^    AdjList adjlist;$/;"	m	struct:MultAdjGraph	file:
+adjlist	graph/create/create_edge_array_graph.c	/^    AdjList adjlist;$/;"	m	struct:__anon1	file:
+adjlist	graph/create/create_list_graph.h	/^    AdjList adjlist;$/;"	m	struct:__anon4
+adjlist	graph/create/create_orth_graph.c	/^    AdjList adjlist;$/;"	m	struct:OrthGraphList	file:
+adjvex	graph/create/create_list_graph.h	/^    int adjvex;$/;"	m	struct:EdgeNode
+arc	graph/create/create_matrix_graph.h	/^    etype arc[MAXVEX][MAXVEX];$/;"	m	struct:__anon2
+bPoint	tree/level_order_traverse.c	/^}Point,*bPoint;$/;"	t	typeref:struct:Point	file:
+bQuene	tree/level_order_traverse.c	/^}Quene,*bQuene;$/;"	t	typeref:struct:Quene	file:
+begin	graph/create/create_edge_array_graph.c	/^    int begin,end;$/;"	m	struct:EdgeNode	file:
+createAdjGraph	graph/create/create_list_graph.c	/^void createAdjGraph(GraphAdjList *G){$/;"	f
+createAdjGraph	graph/create/create_matrix_graph.c	/^void createAdjGraph(MGraph *G){$/;"	f
+createBiTree	tree/common.c	/^BiTree createBiTree(BiTree T)$/;"	f
+createEdgeArrayGraph	graph/create/create_edge_array_graph.c	/^void createEdgeArrayGraph(EdgeAdjGraph *G){$/;"	f
+createMultGraph	graph/create/create_adj_mult_graph.c	/^void createMultGraph(MultAdjGraph *G){$/;"	f
+createOrthGraph	graph/create/create_orth_graph.c	/^void createOrthGraph(OrthGraphList *G){$/;"	f
+data	graph/create/create_adj_mult_graph.c	/^    vtype data;$/;"	m	struct:VertexNode	file:
+data	graph/create/create_edge_array_graph.c	/^    vtype data;$/;"	m	struct:VertexNode	file:
+data	graph/create/create_list_graph.h	/^    vtype data;$/;"	m	struct:__anon3
+data	graph/create/create_orth_graph.c	/^    vtype data;$/;"	m	struct:VertexNode	file:
+data	tree/common.h	/^    etype data;$/;"	m	struct:BiTNode
+deleteBiTree	tree/common.c	/^void deleteBiTree(BiTree T){$/;"	f
+dfs	graph/traverse/dfs_adjlist.c	/^void dfs(GraphAdjList *G,int i){$/;"	f
+dfs	graph/traverse/dfs_matrix.c	/^void dfs(MGraph *G,int i){$/;"	f
+dfsTraverse	graph/traverse/dfs_adjlist.c	/^void dfsTraverse(GraphAdjList *G){$/;"	f
+dfsTraverse	graph/traverse/dfs_matrix.c	/^void dfsTraverse(MGraph *G){$/;"	f
+edgelist	graph/create/create_edge_array_graph.c	/^    EdgeList edgelist;$/;"	m	struct:__anon1	file:
+end	graph/create/create_edge_array_graph.c	/^    int begin,end;$/;"	m	struct:EdgeNode	file:
+etype	graph/create/create_adj_mult_graph.c	/^typedef int etype;$/;"	t	file:
+etype	graph/create/create_edge_array_graph.c	/^typedef int etype;$/;"	t	file:
+etype	graph/create/create_list_graph.h	/^typedef int etype;$/;"	t
+etype	graph/create/create_matrix_graph.h	/^typedef int etype;$/;"	t
+etype	graph/create/create_orth_graph.c	/^typedef int etype;$/;"	t	file:
+etype	tree/common.h	/^typedef char etype;$/;"	t
+etype	tree/level_order_traverse.c	/^typedef char etype;$/;"	t	file:
+firstedge	graph/create/create_adj_mult_graph.c	/^    EdgeNode *firstedge;$/;"	m	struct:VertexNode	file:
+firstedge	graph/create/create_list_graph.h	/^    EdgeNode *firstedge;$/;"	m	struct:__anon3
+firstin	graph/create/create_orth_graph.c	/^    EdgeNode *firstin,*firstout;$/;"	m	struct:VertexNode	file:
+firstout	graph/create/create_orth_graph.c	/^    EdgeNode *firstin,*firstout;$/;"	m	struct:VertexNode	file:
+head	tree/level_order_traverse.c	/^    bQuene head,tail;$/;"	m	struct:Point	file:
+headlink	graph/create/create_orth_graph.c	/^    struct EdgeNode *headlink,*taillink;$/;"	m	struct:EdgeNode	typeref:struct:EdgeNode::EdgeNode	file:
+headvex	graph/create/create_orth_graph.c	/^    int headvex;$/;"	m	struct:EdgeNode	file:
+ilink	graph/create/create_adj_mult_graph.c	/^    struct EdgeNode *ilink,*jlink;$/;"	m	struct:EdgeNode	typeref:struct:EdgeNode::EdgeNode	file:
+inOrderTraverse	tree/traverse.c	/^void inOrderTraverse(BiTree T){$/;"	f
+ivex	graph/create/create_adj_mult_graph.c	/^    int ivex,jvex;$/;"	m	struct:EdgeNode	file:
+jlink	graph/create/create_adj_mult_graph.c	/^    struct EdgeNode *ilink,*jlink;$/;"	m	struct:EdgeNode	typeref:struct:EdgeNode::	file:
+jvex	graph/create/create_adj_mult_graph.c	/^    int ivex,jvex;$/;"	m	struct:EdgeNode	file:
+lchild	tree/common.h	/^    struct BiTNode *lchild,*rchild;$/;"	m	struct:BiTNode	typeref:struct:BiTNode::BiTNode
+levelOrderBiTree	tree/level_order_traverse.c	/^void levelOrderBiTree(BiTree T){$/;"	f
+main	graph/create/create_adj_mult_graph.c	/^int main(){$/;"	f
+main	graph/create/create_edge_array_graph.c	/^int main(){$/;"	f
+main	graph/create/create_orth_graph.c	/^int main()$/;"	f
+main	graph/traverse/dfs_adjlist.c	/^int main()$/;"	f
+main	graph/traverse/dfs_matrix.c	/^int main(){$/;"	f
+main	tree/level_order_traverse.c	/^int main(){$/;"	f
+main	tree/traverse.c	/^int main(){$/;"	f
+next	graph/create/create_list_graph.h	/^    struct EdgeNode *next;$/;"	m	struct:EdgeNode	typeref:struct:EdgeNode::EdgeNode
+next	tree/level_order_traverse.c	/^    struct Quene *next;$/;"	m	struct:Quene	typeref:struct:Quene::Quene	file:
+numE	graph/create/create_adj_mult_graph.c	/^    int numV,numE;$/;"	m	struct:MultAdjGraph	file:
+numE	graph/create/create_edge_array_graph.c	/^    int numV,numE;$/;"	m	struct:__anon1	file:
+numE	graph/create/create_list_graph.h	/^    int numV,numE;$/;"	m	struct:__anon4
+numE	graph/create/create_matrix_graph.h	/^    int numV,numE;\/\/实际顶点数、边条数$/;"	m	struct:__anon2
+numE	graph/create/create_orth_graph.c	/^    int numV,numE;$/;"	m	struct:OrthGraphList	file:
+numV	graph/create/create_adj_mult_graph.c	/^    int numV,numE;$/;"	m	struct:MultAdjGraph	file:
+numV	graph/create/create_edge_array_graph.c	/^    int numV,numE;$/;"	m	struct:__anon1	file:
+numV	graph/create/create_list_graph.h	/^    int numV,numE;$/;"	m	struct:__anon4
+numV	graph/create/create_matrix_graph.h	/^    int numV,numE;\/\/实际顶点数、边条数$/;"	m	struct:__anon2
+numV	graph/create/create_orth_graph.c	/^    int numV,numE;$/;"	m	struct:OrthGraphList	file:
+pop	tree/level_order_traverse.c	/^BiTree pop(bPoint p){$/;"	f
+postOrderTraverse	tree/traverse.c	/^void postOrderTraverse(BiTree T){$/;"	f
+preOrderTraverse	tree/traverse.c	/^void preOrderTraverse(BiTree T) {$/;"	f
+push	tree/level_order_traverse.c	/^void push(bPoint p,BiTree T){$/;"	f
+rchild	tree/common.h	/^    struct BiTNode *lchild,*rchild;$/;"	m	struct:BiTNode	typeref:struct:BiTNode::
+status	tree/level_order_traverse.c	/^typedef int status;$/;"	t	file:
+t	tree/level_order_traverse.c	/^    BiTree t;$/;"	m	struct:Quene	file:
+tail	tree/level_order_traverse.c	/^    bQuene head,tail;$/;"	m	struct:Point	file:
+taillink	graph/create/create_orth_graph.c	/^    struct EdgeNode *headlink,*taillink;$/;"	m	struct:EdgeNode	typeref:struct:EdgeNode::	file:
+tailvex	graph/create/create_orth_graph.c	/^    int tailvex;$/;"	m	struct:EdgeNode	file:
+vertex	graph/create/create_matrix_graph.h	/^    vtype vertex[MAXVEX];$/;"	m	struct:__anon2
+visited	graph/traverse/dfs_adjlist.c	/^BOOLEAN visited[MAXVEX];$/;"	v
+visited	graph/traverse/dfs_matrix.c	/^BOOLEAN visited[MAXVEX];$/;"	v
+vtype	graph/create/create_adj_mult_graph.c	/^typedef char vtype;$/;"	t	file:
+vtype	graph/create/create_edge_array_graph.c	/^typedef char vtype;$/;"	t	file:
+vtype	graph/create/create_list_graph.h	/^typedef char vtype;$/;"	t
+vtype	graph/create/create_matrix_graph.h	/^typedef char vtype;$/;"	t
+vtype	graph/create/create_orth_graph.c	/^typedef char vtype;$/;"	t	file:
+weight	graph/create/create_adj_mult_graph.c	/^    etype weight;$/;"	m	struct:EdgeNode	file:
+weight	graph/create/create_edge_array_graph.c	/^    etype weight;$/;"	m	struct:EdgeNode	file:
+weight	graph/create/create_list_graph.h	/^    etype weight;$/;"	m	struct:EdgeNode
+weight	graph/create/create_orth_graph.c	/^    etype weight;$/;"	m	struct:EdgeNode	file:
