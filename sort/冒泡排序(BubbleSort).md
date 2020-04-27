@@ -31,7 +31,7 @@
 
 1. 浪费了大部分循环
 1. 有些交换是无用的
-![image](http://note.youdao.com/yws/res/44088/WEBRESOURCE332553d1ae66a3b29a5edbe292773ea1)
+![冒泡排序]https://github.com/xxllss/Data-Structures-and-Algorithms/blob/master/image/BubbleSort.png)
 
 ## 冒泡排序2:
 
