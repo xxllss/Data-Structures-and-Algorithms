@@ -18,4 +18,6 @@
         }
     }
 
-![image](./InsertSort.png)
+假设i循环到了6（这样比较好理解多次移动的时候，各值的变化）
+
+![插入排序循环示例](https://github.com/xxllss/Data-Structures-and-Algorithms/blob/master/image/InsertSort.png)
