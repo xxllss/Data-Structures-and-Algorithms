@@ -24,7 +24,7 @@ void insertSort(list *l){
     int temp,i,j;
     for(i=1;i<=l->length;i++){
         temp = l->r[i];
-        for(j=i-1;l->r[j] > temp;j--){
+        for(j=i-1;l->r[j] > temp && j>=0;j--){
              l->r[j+1] = l->r[j];
         }
         if(j+1 != i){
